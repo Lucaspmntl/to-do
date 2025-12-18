@@ -1,4 +1,4 @@
-package com.todo.to_do.dto;
+package com.todo.to_do.dto.user;
 
 import com.todo.to_do.entity.User;
 import lombok.AllArgsConstructor;

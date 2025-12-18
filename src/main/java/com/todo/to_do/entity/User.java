@@ -1,8 +1,8 @@
 package com.todo.to_do.entity;
 
 
-import com.todo.to_do.dto.RegisterUserRequestDTO;
-import com.todo.to_do.dto.UpdateUserRequestDTO;
+import com.todo.to_do.dto.user.RegisterUserRequestDTO;
+import com.todo.to_do.dto.user.UpdateUserRequestDTO;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
